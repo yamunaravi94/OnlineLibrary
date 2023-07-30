@@ -21,9 +21,5 @@ public class LibraryController {
 		
 	}
 	
-	/*
-	 * @RequestMapping("/config") public String retrieveConfig(){ return url;
-	 * 
-	 * }
-	 */
+
 }
